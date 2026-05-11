@@ -1,0 +1,18 @@
+# Angular
+UI/contactly.web/node_modules
+UI/contactly.web/dist
+UI/contactly.web/.angular
+
+# ASP.NET
+API/**/bin
+API/**/obj
+
+# Visual Studio
+.vs
+.vscode
+
+# Logs
+*.log
+
+# Environment
+.env
