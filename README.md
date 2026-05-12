@@ -52,11 +52,11 @@ Contactly
 
 ### Home Page
 
-![Home Page](screenshots/contacts-page.png)
+![Home Page](Screenshots/contacts-page.png)
 
 ---
 
-![Swagger API](screenshots/swagger-overview.png)
+![Swagger API](Screenshots/swagger-overview.png)
 ---
 
 
